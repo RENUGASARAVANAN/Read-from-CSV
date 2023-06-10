@@ -31,7 +31,9 @@ Using len(df.axes[]) print the toal no.of rows and columns with argument 0 for r
 ## PROGRAM:
 '''
  Program to read contents from a CSV file.
+ 
  Developed by:S.Renuga
+ 
  Register Number:212222230118
  '''
 
